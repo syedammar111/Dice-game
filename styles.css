@@ -4,10 +4,14 @@
   text-align: center;
 }
 
+.buttonContainer {
+  width: 100%;
+  margin-top: 2%;
+}
+
 .dice {
   text-align: center;
   display: inline-block;
-
 }
 
 body {
@@ -37,5 +41,4 @@ footer {
   color: #EEEEEE;
   text-align: center;
   font-family: 'Indie Flower', cursive;
-
 }
